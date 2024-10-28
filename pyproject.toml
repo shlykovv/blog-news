@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "myblog"
+version = "0.1.0"
+description = "Проект_1 из книги Django-4 в примерах \"Blog\""
+authors = ["Shlikov Vadim <shlikov.vadim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.6"
+Django = "4.1.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

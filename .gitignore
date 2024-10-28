@@ -1,0 +1,12 @@
+.env
+env
+env/
+venv
+venv/
+.venv
+.venv/
+poetry.lock
+db.sqlite3
+__pycache__
+migrations/
+.DS_Store
