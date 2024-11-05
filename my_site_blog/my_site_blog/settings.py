@@ -17,7 +17,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', default='Ваш токен')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', default='Значение не найдено')
 
 SITE_ID = 1
 
