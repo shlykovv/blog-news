@@ -9,6 +9,9 @@ readme = "README.md"
 python = "3.10.6"
 Django = "4.1.0"
 python-dotenv = "^1.0.1"
+django-taggit = "3.0.0"
+markdown = "3.4.1"
+psycopg2-binary = "2.9.3"
 
 
 [build-system]
