@@ -1,0 +1,9 @@
+venv
+env
+.venv
+.env
+.env_prod
+.git
+db.sqlite3
+.vscode
+.ide
