@@ -8,7 +8,7 @@
 - Добавление в программы просмотра RSS ленты
 
 ### **Стек**
-![python version](https://img.shields.io/badge/Python-3.10-green) ![django version](https://img.shields.io/badge/Django-4.1-green)
+![python version](https://img.shields.io/badge/Python-3.11-green) ![django version](https://img.shields.io/badge/Django-4.1-green)
 
 ## Инструкции по установке
 
